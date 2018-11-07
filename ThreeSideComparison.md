@@ -10,4 +10,4 @@ Instead what's needed here is an AND block:
 
 ![](images/CorrectComparison.png)
 
-
+This way of doing things has separate comparisons for "A = B" and "B = C", then the result of those are ANDed together to get the final answer.
